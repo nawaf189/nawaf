@@ -25,7 +25,7 @@
         <?php echo"<a href='#about' class='log'>log in</a>"; ?>
      </ul>
      <div >
-               
+          <h1></h1>
      </div>
      <footer class="ft">
           <div class="footer-content">
